@@ -1,3 +1,3 @@
-module github.com/idf3da/InstantUsernameSearch
+module github.com/idf3da/instantusernamesearch
 
 go 1.16
