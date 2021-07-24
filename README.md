@@ -1,2 +1,2 @@
-# InstantUsernameSearch
+# instantusernamesearch
 Instant Username Search
