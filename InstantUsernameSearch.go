@@ -1,4 +1,4 @@
-package instantusernamesearch
+package InstantUsernameSearch
 
 import (
 	"encoding/json"
